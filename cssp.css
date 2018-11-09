@@ -1,0 +1,27 @@
+ul {
+	width: 1200px;
+	display: block;
+	overflow: hidden;
+}
+ul li {
+	display: block;
+	float: left;
+	padding:0px 10px 0px 10px;
+	width: 100px;
+}
+ul li a {
+	text-decoration: none;
+}
+ul li a:hover {
+	background-color: gray;
+}
+div#der {
+	float: left;
+	width: 600px;
+	display: block;
+}
+div#izq {
+	float: right;
+	width: 600px;
+	display: block;
+}
